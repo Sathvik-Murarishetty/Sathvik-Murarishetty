@@ -1,10 +1,10 @@
-Hi, My name is Sathvik Murarishetty 👋
+Hi, I am Sathvik Murarishetty 👋
 ======================================
 
 AI/ML Engineer | Full-Stack Developer | Autonomous Systems Enthusiast
 ---------------------------------------------------------------------
 
-I'm a Computer Science UnderGrad MIT Bengaluru, passionate about building intelligent systems that bridge machine learning, web engineering, and robotics. From deploying full-stack apps with Next.js & MongoDB to integrating LLMs into ROS for robotic intelligence, I love crafting scalable solutions. I believe in clean code, lifelong learning, and making tech that actually thinks.
+I'm a Computer Science UnderGrad from MIT Bengaluru, passionate about building intelligent systems that bridge machine learning, web engineering, and robotics. From deploying full-stack apps with Next.js & MongoDB to integrating LLMs into ROS for robotic intelligence, I love crafting scalable solutions. I believe in clean code, lifelong learning, and making tech that actually thinks.
 
 * 🌍  I'm based in Hyderabad, India
 * 🖥️  See my portfolio at [MyPortfolio](http://portfolio-sathvik-murarishettys-projects.vercel.app/)
